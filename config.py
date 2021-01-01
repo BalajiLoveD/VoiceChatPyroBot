@@ -18,7 +18,7 @@ SUDO_USERS = [
 
 # A group ID to send messages to when a song starts playing
 # Example group ID: -1001477743244
-LOG_GROUP = None  # Just keep it like this if you are not going to use one
+LOG_GROUP = -1001477743244  # Just keep it like this if you are not going to use one
 
 # Choose the preferred language for your bot. If English leave as it is, or change to the code of any supported language.
 LANG = "en"
